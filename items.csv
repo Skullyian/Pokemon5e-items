@@ -1,0 +1,8 @@
+Name	Description	Price (₽)	GP (1 Gp / 5 ₽)	Type	Rarity	Icon Folder	Foundry Type	Folder Name
+Potion	Restores 2d4+2 HP	200	40	Medicine	Common	medicine	consumable	medicine
+Super Potion	Restores 3d6+6 HP	500	100	Medicine	Uncommon	medicine	consumable	medicine
+Hyper Potion	Restores 4d12+10 HP	800	160	Medicine	Rare	medicine	consumable	medicine
+Megalite	Allows a final-stage Pokémon to "Mega Evolve" (See Running A Game section)			Evolution	Legendary		equipment	evolution
+Yache Berry	Pokémon takes half damage from an ice-type attack. Activates when hit by ice-type move.	200	40	Berry	Common	berry	consumable	berry
+Kit, Diver's	Includes a wetsuit, diving belt, mask, fins and air tanks. While worn it reduces your movement speed by 20 ft., but gives you a swimming speed of 30 ft. In addition you have 2 hours of air, can dive to a depth of 200 ft. and aren’t affected by the water’s temperature.	750	150	Mundane Item	Common		tool	items
+Sleeping Bag	A sleeping bag for one person.	250	50	Mundane Item	Common		loot	items

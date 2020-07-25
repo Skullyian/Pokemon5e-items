@@ -1,0 +1,67 @@
+{
+	"name": "Pokemon5e-items-mv",
+	"title": "Pokemon5e Items",
+	"description": "Adds items for the Pokemon5e system with limited support for BetterRolls",
+	"author": "MajorVictory",
+	"version": "1.0.0",
+	"minimumCoreVersion": "0.6.5",
+	"compatibleCoreVersion": "0.6.5",
+	"packs": [
+	    {
+	      "name": "medicine",
+	      "label": "Medicine",
+	      "path": "packs/p5e-medicine.db",
+	      "entity": "Item",
+	      "module": "Pokemon5e-items-mv"
+	    },
+	    {
+	      "name": "pokeball",
+	      "label": "Pokeball",
+	      "path": "packs/p5e-pokeball.db",
+	      "entity": "Item",
+	      "module": "Pokemon5e-items-mv"
+	    },
+	    {
+	      "name": "x-item",
+	      "label": "X-Item",
+	      "path": "packs/p5e-x-item.db",
+	      "entity": "Item",
+	      "module": "Pokemon5e-items-mv"
+	    },
+	    {
+	      "name": "evolution",
+	      "label": "Evolution",
+	      "path": "packs/p5e-evolution.db",
+	      "entity": "Item",
+	      "module": "Pokemon5e-items-mv"
+	    },
+	    {
+	      "name": "berry",
+	      "label": "Berry",
+	      "path": "packs/p5e-berry.db",
+	      "entity": "Item",
+	      "module": "Pokemon5e-items-mv"
+	    },
+	    {
+	      "name": "held-item",
+	      "label": "Held Item",
+	      "path": "packs/p5e-held-item.db",
+	      "entity": "Item",
+	      "module": "Pokemon5e-items-mv"
+	    },
+	    {
+	      "name": "items",
+	      "label": "Items",
+	      "path": "packs/p5e-items.db",
+	      "entity": "Item",
+	      "module": "Pokemon5e-items-mv"
+	    },
+	    {
+	      "name": "natures",
+	      "label": "Pokemon Natures",
+	      "path": "packs/p5e-natures.db",
+	      "entity": "Item",
+	      "module": "Pokemon5e-items-mv"
+	    },
+	]
+}
