@@ -62,6 +62,20 @@
 	      "path": "packs/p5e-natures.db",
 	      "entity": "Item",
 	      "module": "Pokemon5e-items"
+	    },
+	    {
+	      "name": "loyalties",
+	      "label": "Pokemon Loyalties",
+	      "path": "packs/p5e-loyalties.db",
+	      "entity": "Item",
+	      "module": "Pokemon5e-items"
+	    },
+	    {
+	      "name": "conditions",
+	      "label": "Pokemon Conditions",
+	      "path": "packs/p5e-conditions.db",
+	      "entity": "JournalEntry",
+	      "module": "Pokemon5e-items"
 	    }
 	]
 }

@@ -1,5 +1,5 @@
 
-fetch('modules/Pokemon5e-items-mv/items.csv').then(response => response.text()).then(data => createItemsFromData(data));
+fetch('modules/Pokemon5e-items/items.csv').then(response => response.text()).then(data => createItemsFromData(data));
 
 async function createItemsFromData(rawData) {
 
@@ -15,6 +15,7 @@ async function createItemsFromData(rawData) {
       'name': '',
       'folder': null,
       'type': 'consumable',
+      'img': '',
       'data': {
         'source': 'Pokemon5e',
         'rarity': '',
@@ -31,18 +32,16 @@ async function createItemsFromData(rawData) {
           'cost': 1,
           'condition': ''
         },
-        'damage': {
-          'parts': [
+        "actionType": "abil",
+        "attackBonus": 0,
+        "damage": {
+          "parts": [
             [
-              '1d20 + @skills.ani.total + 5',
-              ''
-            ],
-            [
-              '1d20 + @skills.ani.total + 5',
-              ''
+              "1d20 + @skills.ani.total",
+              ""
             ]
           ],
-          'versatile': ''
+          "versatile": ""
         },
         'consumableType': 'ammo',
       },
@@ -58,8 +57,8 @@ async function createItemsFromData(rawData) {
           },
           "quickDesc": {
             "type": "Boolean",
-            "value": true,
-            "altValue": true
+            "value": false,
+            "altValue": false
           },
           "quickAttack": {
             "type": "Boolean",
@@ -75,20 +74,49 @@ async function createItemsFromData(rawData) {
             "type": "Array",
             "value": {
               "0": true,
-              "1": true
+              "1": false
             },
             "altValue": {
-              "0": true,
+              "0": false,
               "1": true
             },
             "context": {
-              "0": "Capture Attempt",
-              "1": "Capture Attempt"
+              "0": "Capture Attempt"
             }
           },
+          "quickProperties": {
+            "type": "Boolean",
+            "value": true,
+            "altValue": true
+          },
+          "quickCharges": {
+            "type": "Boolean",
+            "value": true,
+            "altValue": true
+          },
+          "quickTemplate": {
+            "type": "Boolean",
+            "value": false,
+            "altValue": false
+          },
+          "quickOther": {
+            "type": "Boolean",
+            "value": true,
+            "altValue": true,
+            "context": ""
+          },
+          "quickFlavor": {
+            "type": "Boolean",
+            "value": true,
+            "altValue": true
+          }
         },
-      },
-      'img': ''
+        "dynamiceffects": {
+          "equipActive": false,
+          "alwaysActive": false,
+          "effects": []
+        }
+      }
     };
   }
 
@@ -797,7 +825,7 @@ async function createItemsFromData(rawData) {
 
     if (!line || line == null || line.length < 1) continue;
 
-    let lineData = lines[i].split("\t");
+    let lineData = lines[i].replace('é','e').split("\t");
 
     if (!lineData || lineData == null || lineData.length < 9) continue;
 
@@ -813,11 +841,11 @@ async function createItemsFromData(rawData) {
 
     //select folder for finished item
     const saveFolder = game.folders.filter(f => f.name === foldername && f.parent && f.parent.name == "Pokemon5e")[0];
-    console.log('foldername', foldername);
-    console.log('folder', saveFolder);
+    //console.log('foldername', foldername);
+    //console.log('folder', saveFolder);
 
     let iconname = name.replace(/ /g,'-').replace(/,/g,'').toLowerCase();
-    let iconpath = 'modules/Pokemon5e-items-mv/images/'+iconfolder+'/'+iconname+'.png';
+    let iconpath = 'modules/Pokemon5e-items/images/'+iconfolder+'/'+iconname+'.png';
 
     if (itemtype == 'Pokeball') {
 
@@ -826,7 +854,23 @@ async function createItemsFromData(rawData) {
       let cleanedesc = desc.replace(' to Capture Rolls', '');
       cleanedesc = cleanedesc.replace(' on Capture Roll', '');
 
-      iconpath = iconpath.replace('-ball.png', '.png');
+      let descparts = desc.split(' to Capture Rolls');
+      let rollbonus = descparts[0].trim();
+      let rollcondition = descparts[1].trim();
+
+      //check for bonus only
+      if (rollbonus.length > 0 && (rollcondition.length < 1 || rollcondition[0] == '.')) {
+        templateitem.data.damage.parts[0][0] += ' '+rollbonus;
+      }
+
+      //check for bonus on condition
+      if (rollbonus.length > 0 && (rollcondition.length > 1 && rollcondition[0] != '.')) {
+        templateitem.data.damage.parts.push(['1d20 + @skills.ani.total '+rollbonus, '']);
+        templateitem.flags.betterRolls5e.quickDamage.context['1'] = 'Capture Attempt '+rollcondition;
+      }
+
+
+      iconpath = iconpath.replace('-ball.png', '.png').replace('ball.png', '.png');
 
       templateitem.name = name;
       templateitem.data.rarity = rarity;
@@ -912,8 +956,8 @@ async function createItemsFromData(rawData) {
       <hr>\n
       <p><strong>Description: </strong>${desc}</p>`;
 
-      Item.create(templateitem, templateitem);
-      console.log(itemtype, templateitem);
+      //Item.create(templateitem, templateitem);
+      //console.log(itemtype, templateitem);
       continue;
     }
 
