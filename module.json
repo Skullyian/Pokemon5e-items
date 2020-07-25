@@ -1,7 +1,7 @@
 {
-	"name": "Pokemon5e-items-mv",
+	"name": "Pokemon5e-items",
 	"title": "Pokemon5e Items",
-	"description": "Adds items for the Pokemon5e system with limited support for BetterRolls",
+	"description": "Adds items for the Pokemon5e system with limited support for BetterRolls and DynamicEffects",
 	"author": "MajorVictory",
 	"version": "1.0.0",
 	"minimumCoreVersion": "0.6.5",
@@ -9,59 +9,59 @@
 	"packs": [
 	    {
 	      "name": "medicine",
-	      "label": "Medicine",
+	      "label": "Medicines",
 	      "path": "packs/p5e-medicine.db",
 	      "entity": "Item",
-	      "module": "Pokemon5e-items-mv"
+	      "module": "Pokemon5e-items"
 	    },
 	    {
 	      "name": "pokeball",
-	      "label": "Pokeball",
+	      "label": "Pokeballs",
 	      "path": "packs/p5e-pokeball.db",
 	      "entity": "Item",
-	      "module": "Pokemon5e-items-mv"
+	      "module": "Pokemon5e-items"
 	    },
 	    {
 	      "name": "x-item",
-	      "label": "X-Item",
+	      "label": "X-Items",
 	      "path": "packs/p5e-x-item.db",
 	      "entity": "Item",
-	      "module": "Pokemon5e-items-mv"
+	      "module": "Pokemon5e-items"
 	    },
 	    {
 	      "name": "evolution",
-	      "label": "Evolution",
+	      "label": "Evolution Items",
 	      "path": "packs/p5e-evolution.db",
 	      "entity": "Item",
-	      "module": "Pokemon5e-items-mv"
+	      "module": "Pokemon5e-items"
 	    },
 	    {
 	      "name": "berry",
-	      "label": "Berry",
+	      "label": "Berries",
 	      "path": "packs/p5e-berry.db",
 	      "entity": "Item",
-	      "module": "Pokemon5e-items-mv"
+	      "module": "Pokemon5e-items"
 	    },
 	    {
 	      "name": "held-item",
-	      "label": "Held Item",
+	      "label": "Held Items",
 	      "path": "packs/p5e-held-item.db",
 	      "entity": "Item",
-	      "module": "Pokemon5e-items-mv"
+	      "module": "Pokemon5e-items"
 	    },
 	    {
 	      "name": "items",
 	      "label": "Items",
 	      "path": "packs/p5e-items.db",
 	      "entity": "Item",
-	      "module": "Pokemon5e-items-mv"
+	      "module": "Pokemon5e-items"
 	    },
 	    {
 	      "name": "natures",
 	      "label": "Pokemon Natures",
 	      "path": "packs/p5e-natures.db",
 	      "entity": "Item",
-	      "module": "Pokemon5e-items-mv"
-	    },
+	      "module": "Pokemon5e-items"
+	    }
 	]
 }

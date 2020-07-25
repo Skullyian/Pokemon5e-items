@@ -1,7 +1,7 @@
 
 fetch('modules/Pokemon5e-items-mv/items.csv').then(response => response.text()).then(data => createItemsFromData(data));
 
-function createItemsFromData(rawData) {
+async function createItemsFromData(rawData) {
 
   console.log(rawData);
 
@@ -801,20 +801,18 @@ function createItemsFromData(rawData) {
 
     if (!lineData || lineData == null || lineData.length < 9) continue;
 
-    let name = lineData[0];
-    let desc = lineData[1];
-    let pricepoke = lineData[2];
-    let pricegp = lineData[3];
-    let itemtype = lineData[4];
-    let rarity = lineData[5];
-    let iconfolder = lineData[6];
-    let foundrytype = lineData[7];
-    let foldername = lineData[8];
+    let name = lineData[0].trim();
+    let desc = lineData[1].trim();
+    let pricepoke = lineData[2].trim();
+    let pricegp = lineData[3].trim();
+    let itemtype = lineData[4].trim();
+    let rarity = lineData[5].trim();
+    let iconfolder = lineData[6].trim();
+    let foundrytype = lineData[7].trim();
+    let foldername = lineData[8].trim();
 
     //select folder for finished item
-    const saveFolder = game.folders.filter(f => f.name == foldername && f.parent && f.parent.name == "Pokemon5e")[0];
-    console.log('game', game);
-    console.log('game.folders', game.folders);
+    const saveFolder = game.folders.filter(f => f.name === foldername && f.parent && f.parent.name == "Pokemon5e")[0];
     console.log('foldername', foldername);
     console.log('folder', saveFolder);
 
@@ -827,6 +825,8 @@ function createItemsFromData(rawData) {
 
       let cleanedesc = desc.replace(' to Capture Rolls', '');
       cleanedesc = cleanedesc.replace(' on Capture Roll', '');
+
+      iconpath = iconpath.replace('-ball.png', '.png');
 
       templateitem.name = name;
       templateitem.data.rarity = rarity;
@@ -841,7 +841,7 @@ function createItemsFromData(rawData) {
       <p>When thrown, you gain ${desc}</p>`;
 
 
-      //Item.create(templateitem, templateitem);
+      Item.create(templateitem, templateitem);
       console.log(itemtype, templateitem);
       continue;
     }
@@ -859,7 +859,7 @@ function createItemsFromData(rawData) {
       <p><strong>Description: </strong>${desc}</p>`;
 
       //Item.create(templateitem, templateitem);
-      console.log(itemtype, templateitem);
+      //console.log(itemtype, templateitem);
       continue;
     }
 
@@ -871,6 +871,8 @@ function createItemsFromData(rawData) {
 
       let templateitem = createConsumable();
 
+      if (itemtype == 'Berry') iconpath = iconpath.replace('-berry.png', '.png');
+
       templateitem.name = name;
       templateitem.data.rarity = rarity;
       templateitem.data.price = pricepoke;
@@ -881,11 +883,12 @@ function createItemsFromData(rawData) {
       <p><strong>Description: </strong>${desc}</p>`;
 
       //Item.create(templateitem, templateitem);
-      console.log(itemtype, templateitem);
+      //console.log(itemtype, templateitem);
       continue;
     }
 
-    if (itemtype == 'Special' || itemtype == 'Mundane Item') {
+    //if (itemtype == 'Special' || itemtype == 'Mundane Item' || itemtype == 'Held Item' || itemtype == 'Specific Held Item') {
+    if (itemtype == 'Held Item' || itemtype == 'Specific Held Item') {
 
       let templateitem = null;
 
@@ -909,7 +912,7 @@ function createItemsFromData(rawData) {
       <hr>\n
       <p><strong>Description: </strong>${desc}</p>`;
 
-      //Item.create(templateitem, templateitem);
+      Item.create(templateitem, templateitem);
       console.log(itemtype, templateitem);
       continue;
     }
