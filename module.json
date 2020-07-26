@@ -9,49 +9,49 @@
 	"packs": [
 	    {
 	      "name": "medicine",
-	      "label": "Medicines",
+	      "label": "Pokemon Medicines",
 	      "path": "packs/p5e-medicine.db",
 	      "entity": "Item",
 	      "module": "Pokemon5e-items"
 	    },
 	    {
 	      "name": "pokeball",
-	      "label": "Pokeballs",
+	      "label": "Pokemon Pokeballs",
 	      "path": "packs/p5e-pokeball.db",
 	      "entity": "Item",
 	      "module": "Pokemon5e-items"
 	    },
 	    {
 	      "name": "x-item",
-	      "label": "X-Items",
+	      "label": "Pokemon X-Items",
 	      "path": "packs/p5e-x-item.db",
 	      "entity": "Item",
 	      "module": "Pokemon5e-items"
 	    },
 	    {
 	      "name": "evolution",
-	      "label": "Evolution Items",
+	      "label": "Pokemon Evolution Items",
 	      "path": "packs/p5e-evolution.db",
 	      "entity": "Item",
 	      "module": "Pokemon5e-items"
 	    },
 	    {
 	      "name": "berry",
-	      "label": "Berries",
+	      "label": "Pokemon Berries",
 	      "path": "packs/p5e-berry.db",
 	      "entity": "Item",
 	      "module": "Pokemon5e-items"
 	    },
 	    {
 	      "name": "held-item",
-	      "label": "Held Items",
+	      "label": "Pokemon Held Items",
 	      "path": "packs/p5e-held-item.db",
 	      "entity": "Item",
 	      "module": "Pokemon5e-items"
 	    },
 	    {
 	      "name": "items",
-	      "label": "Items",
+	      "label": "Pokemon Items",
 	      "path": "packs/p5e-items.db",
 	      "entity": "Item",
 	      "module": "Pokemon5e-items"
