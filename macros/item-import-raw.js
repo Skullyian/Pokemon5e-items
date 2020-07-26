@@ -745,7 +745,7 @@ async function createItemsFromData(rawData) {
         },
         "armor": {
           "type": "trinket",
-          "value": 10,
+          "value": null,
           "dex": null
         },
         "strength": 0,
@@ -831,8 +831,8 @@ async function createItemsFromData(rawData) {
 
     let name = lineData[0].trim();
     let desc = lineData[1].trim();
-    let pricepoke = lineData[2].trim();
-    let pricegp = lineData[3].trim();
+    let pricepoke = lineData[2].replace(',','').trim();
+    let pricegp = lineData[3].replace(',','').trim();
     let itemtype = lineData[4].trim();
     let rarity = lineData[5].trim();
     let iconfolder = lineData[6].trim();
@@ -946,6 +946,8 @@ async function createItemsFromData(rawData) {
       }
 
       if (templateitem == null) continue;
+
+      
 
       templateitem.name = name;
       templateitem.data.rarity = rarity;

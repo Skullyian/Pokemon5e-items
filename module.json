@@ -76,6 +76,13 @@
 	      "path": "packs/p5e-conditions.db",
 	      "entity": "JournalEntry",
 	      "module": "Pokemon5e-items"
+	    },
+	    {
+	      "name": "tables",
+	      "label": "Pokemon Rolltables",
+	      "path": "packs/p5e-tables.db",
+	      "entity": "RollTable",
+	      "module": "Pokemon5e-items"
 	    }
 	]
 }
