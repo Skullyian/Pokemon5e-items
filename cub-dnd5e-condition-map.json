@@ -1,0 +1,355 @@
+{
+  "system": "dnd5e",
+  "map": [
+    {
+      "name": "Blinded",
+      "icon": "modules/Pokemon5e-items/images/PokeStatus/S_BLN-SM.png",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.oScVqOHJt5SQszVl]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      }
+    },
+    {
+      "name": "Charmed",
+      "icon": "modules/Pokemon5e-items/images/PokeStatus/S_CHA-SM.png",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.UWlXFfSX95JVWrYs]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      }
+    },
+    {
+      "name": "Concentrating",
+      "icon": "modules/Pokemon5e-items/images/PokeStatus/S_CONCENTRATE-SM.png",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.nSoKejZfahbxfggp]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      }
+    },
+    {
+      "name": "Deafened",
+      "icon": "modules/Pokemon5e-items/images/PokeStatus/S_DFN-SM.png",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.p9CQYqWS7s4Abwqk]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      }
+    },
+    {
+      "name": "Exhaustion 1",
+      "icon": "modules/Pokemon5e-items/images/PokeStatus/EXHAUST1.png",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.4Z1Ins4wHUAWJal2]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      }
+    },
+    {
+      "name": "Exhaustion 2",
+      "icon": "modules/Pokemon5e-items/images/PokeStatus/EXHAUST2.png",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.4Z1Ins4wHUAWJal2]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      }
+    },
+    {
+      "name": "Exhaustion 3",
+      "icon": "modules/Pokemon5e-items/images/PokeStatus/EXHAUST3.png",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.4Z1Ins4wHUAWJal2]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      }
+    },
+    {
+      "name": "Exhaustion 4",
+      "icon": "modules/Pokemon5e-items/images/PokeStatus/EXHAUST4.png",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.4Z1Ins4wHUAWJal2]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      }
+    },
+    {
+      "name": "Exhaustion 5",
+      "icon": "modules/Pokemon5e-items/images/PokeStatus/EXHAUST5.png",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.4Z1Ins4wHUAWJal2]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      }
+    },
+    {
+      "name": "Frightened",
+      "icon": "modules/Pokemon5e-items/images/PokeStatus/S_FEAR-SM.png",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.PTANb5kCweCv3Jna]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      }
+    },
+    {
+      "name": "Grappled",
+      "icon": "modules/Pokemon5e-items/images/PokeStatus/S_GRAPPLE-SM.png",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.qKqW3LJEQpJ7T3v8]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      }
+    },
+    {
+      "name": "Incapacitated",
+      "icon": "modules/Pokemon5e-items/images/PokeStatus/S_INCAP-SM.png",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.hWk0QM9u7SUpd4BX]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      }
+    },
+    {
+      "name": "Invisible",
+      "icon": "modules/Pokemon5e-items/images/PokeStatus/S_INVIS-SM.png",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.pSvtps6WHVAuWh9l]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      }
+    },
+    {
+      "name": "Paralyzed",
+      "icon": "modules/Pokemon5e-items/images/PokeStatus/S_PAR-SM.png",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.o5oZVdHSWmceeFyx]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      }
+    },
+    {
+      "name": "Petrified",
+      "icon": "modules/Pokemon5e-items/images/PokeStatus/S_PETRIFIED-SM.png",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.KaKNDyLeWRGqpBlc]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      }
+    },
+    {
+      "name": "Poisoned",
+      "icon": "modules/Pokemon5e-items/images/PokeStatus/S_PSN-SM.png",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.eJQ3ve6RTdjbNGEz]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      }
+    },
+    {
+      "name": "Prone",
+      "icon": "modules/Pokemon5e-items/images/PokeStatus/S_PRONE-SM.png",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.ekm4TUHKT3QUPdPv]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      }
+    },
+    {
+      "name": "Restrained",
+      "icon": "modules/Pokemon5e-items/images/PokeStatus/S_RESTRAINED-SM.png",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.0mkU8eksNfwd1AZY]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      }
+    },
+    {
+      "name": "Stunned",
+      "icon": "modules/Pokemon5e-items/images/PokeStatus/S_STUN-SM.png",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.IDLJEkgkdcnljtEW]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      }
+    },
+    {
+      "name": "Unconscious",
+      "icon": "modules/Pokemon5e-items/images/PokeStatus/S_FEINT-SM.png",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.S499QUmXTVx81wk8]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": true,
+        "removeOthers": false,
+        "markDefeated": false
+      }
+    },
+    {
+      "name": "Frozen",
+      "icon": "modules/Pokemon5e-items/images/PokeStatus/S_FRZ-SM.png",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "Pokemon5e-items.conditions",
+      "referenceId": "@Compendium[Pokemon5e-items.conditions.2k38DNJqTDHUrlj6]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      }
+    },
+    {
+      "name": "Burned",
+      "icon": "modules/Pokemon5e-items/images/PokeStatus/S_BRN-SM.png",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "Pokemon5e-items.conditions",
+      "referenceId": "@Compendium[Pokemon5e-items.conditions.l806mVOG3uJ1iwpo]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      }
+    },
+    {
+      "name": "Asleep",
+      "icon": "modules/Pokemon5e-items/images/PokeStatus/S_SLP-SM.png",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "Pokemon5e-items.conditions",
+      "referenceId": "@Compendium[Pokemon5e-items.conditions.tzsDgxAEvJCseEl1]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      }
+    },
+    {
+      "name": "Confused",
+      "icon": "modules/Pokemon5e-items/images/PokeStatus/S_CNF-SM.png",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "Pokemon5e-items.conditions",
+      "referenceId": "@Compendium[Pokemon5e-items.conditions.gahfnC06lzdmnevR]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      }
+    },
+    {
+      "name": "Flinched",
+      "icon": "modules/Pokemon5e-items/images/PokeStatus/S_FLC-SM.png",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "Pokemon5e-items.conditions",
+      "referenceId": "@Compendium[Pokemon5e-items.conditions.X6qQMxQ679MclAGX]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      }
+    }
+  ]
+}
