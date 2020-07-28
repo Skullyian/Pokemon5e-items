@@ -21,12 +21,14 @@
 </p>
 
 **[Compatibility]**: *FoundryVTT* 0.6.5
+
 **[Systems]**: *dnd5e*
 
 
 ## Installation
 
-** No release available yet **
+**No release available yet**
+
 You are welcome to download the repo and test, but as of yet there is no official release of this module.
 
 You can view item progress and usage instructions on [this spreadsheet](https://docs.google.com/spreadsheets/d/1qyvenM4MrTE9GfYi3uIKrCeI8BXrTiRqAwyTv9iNYfE/edit?usp=sharing)
