@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/MajorVictory/Pokemon5e-items">
-    <img src="readme/P5e-Logo.png" alt="Logo" width="80" height="80">
+    <img src="readme/P5e-Logo-V2.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Pokemon5e Items module for FoundryVtt</h3>
