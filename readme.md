@@ -39,6 +39,20 @@ You can view item progress and usage instructions on [this spreadsheet](https://
  * Rolltables for loyalty, fishing rods (wip), natures, and more.
  * Optional conditions json that can be imported into Combat Utility Belt's Condition Lab complete with custom overlay images.
 
+## Done / TODO
+
+✔️ Indicates finished ready to use (hopefully)  
+❌ Indicates present, but not ready for use  
+
+ * ✔️ Pokeballs
+ * ✔️ Berries
+ * ✔️ Medicines
+ * ✔️ X-Items
+ * ❌ Held Items
+ * ❌ Evolution Items
+ * ❌ Rolltables for fishing rods
+ * ❌ Other Rolltables? ([suggestions welcome](https://github.com/MajorVictory/Pokemon5e-items/issues))
+
 ## Screenshots 
 
 ![](readme/Items-Preview-7-27-2020.png)
