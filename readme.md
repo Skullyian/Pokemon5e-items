@@ -27,19 +27,24 @@
 
 ## Installation
 
-**No release available yet**
+**There is no Version 1 yet**
 
-You are welcome to download the repo and test, but as of yet there is no official release of this module.
+You can download the module in it's alpha state for testing or feedback by pasting the following manifest url into Foundry.
 
-You can view item progress and usage instructions on [this spreadsheet](https://docs.google.com/spreadsheets/d/1qyvenM4MrTE9GfYi3uIKrCeI8BXrTiRqAwyTv9iNYfE/edit?usp=sharing)
+> https://raw.githubusercontent.com/MajorVictory/Pokemon5e-items/master/module.json
 
 ## Features
 
  * Items with full descriptions, images, and limited automated functionality. (uses DynamicEffects)
+ * Expands the DnD5e system to include Pokemon5e Damage Types, Conditions, and d20 Hit Dice.
  * Rolltables for loyalty, fishing rods (wip), natures, and more.
  * Optional conditions json that can be imported into Combat Utility Belt's Condition Lab complete with custom overlay images.
 
 ## Done / TODO
+
+You can view specific item progress and usage instructions on [this spreadsheet](https://docs.google.com/spreadsheets/d/1qyvenM4MrTE9GfYi3uIKrCeI8BXrTiRqAwyTv9iNYfE/edit?usp=sharing)
+
+Here's an overview of what's 'done'
 
 ✔️ Indicates finished ready to use (hopefully)  
 ❌ Indicates present, but not ready for use  
