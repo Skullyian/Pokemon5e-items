@@ -3,7 +3,7 @@
 	"title": "Pokemon5e Items",
 	"description": "Adds items for the Pokemon5e system with limited support for BetterRolls and DynamicEffects",
 	"author": "MajorVictory",
-	"version": "1.0.0",
+	"version": "0.17.0 alpha",
 	"minimumCoreVersion": "0.6.5",
 	"compatibleCoreVersion": "0.6.5",
 	"packs": [
@@ -84,5 +84,18 @@
 	      "entity": "RollTable",
 	      "module": "Pokemon5e-items"
 	    }
-	]
+	],
+	"scripts": [
+		"scripts/load-p5e-extras.js"
+	],
+	"languages": [
+		{
+		  "lang": "en",
+		  "name": "English",
+		  "path": "lang/en.json"
+		}
+	],
+	"url": "https://github.com/MajorVictory/Pokemon5e-items",
+	"manifest": "https://raw.githubusercontent.com/MajorVictory/Pokemon5e-items/master/module.json",
+	"download": "https://github.com/MajorVictory/Pokemon5e-items/releases/download/v0.17.0-alpha/dice-so-nice-extras.zip"
 }
