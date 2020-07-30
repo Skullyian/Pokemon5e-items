@@ -53,7 +53,7 @@ Here's an overview of what's 'done'
  * ✔️ Berries
  * ✔️ Medicines
  * ✔️ X-Items
- * ❌ Held Items
+ * ✔️ Held Items
  * ❌ Evolution Items
  * ❌ Rolltables for fishing rods
  * ❌ Other Rolltables? ([suggestions welcome](https://github.com/MajorVictory/Pokemon5e-items/issues))
@@ -84,6 +84,4 @@ This work is licensed under Foundry Virtual Tabletop [EULA - Limited License Agr
 [stars-url]: https://github.com/MajorVictory/Pokemon5e-items/stargazers
 [issues-shield]: https://img.shields.io/github/issues/MajorVictory/Pokemon5e-items.svg?style=flat-square
 [issues-url]: https://github.com/MajorVictory/Pokemon5e-items/issues
-[license-shield]: https://img.shields.io/github/license/MajorVictory/Pokemon5e-items.svg?style=flat-square
-[license-url]: https://github.com/MajorVictory/Pokemon5e-items/blob/master/LICENSE.txt
 [product-screenshot]: readme/Items-Preview-7-27-2020.png
