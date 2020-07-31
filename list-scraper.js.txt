@@ -1,0 +1,5 @@
+// use on https://www.theworldofpokemon.com/
+let biglist = [];
+$('img.galleryImage').each(function(i,e) {biglist.push($(e).parent().attr('href').replace('/','').replace('.html',''));});
+console.log(biglist);
+console.log(biglist.join(','));

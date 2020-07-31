@@ -3,7 +3,7 @@
 	"title": "Pokemon5e Items",
 	"description": "Adds items for the Pokemon5e system with limited support for BetterRolls and DynamicEffects",
 	"author": "MajorVictory",
-	"version": "0.18.0 alpha",
+	"version": "0.19.0 alpha",
 	"minimumCoreVersion": "0.6.5",
 	"compatibleCoreVersion": "0.6.5",
 	"packs": [
@@ -97,5 +97,5 @@
 	],
 	"url": "https://github.com/MajorVictory/Pokemon5e-items",
 	"manifest": "https://raw.githubusercontent.com/MajorVictory/Pokemon5e-items/master/module.json",
-	"download": "https://github.com/MajorVictory/Pokemon5e-items/releases/download/v0.18.0-alpha/Pokemon5e-items.zip"
+	"download": "https://github.com/MajorVictory/Pokemon5e-items/releases/download/v0.19.0-alpha/Pokemon5e-items.zip"
 }

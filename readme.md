@@ -54,8 +54,12 @@ Here's an overview of what's 'done'
  * ✔️ Medicines
  * ✔️ X-Items
  * ✔️ Held Items
- * ❌ Evolution Items
- * ❌ Rolltables for fishing rods
+ * ✔️ Evolution Items
+ * ❌ Mundane Items
+ * ❌ Special Items
+ * ✔️ Rolltables for fishing rods
+ * ❌ Rolltables for regions
+ * ✔️ Rolltables for weather
  * ❌ Other Rolltables? ([suggestions welcome](https://github.com/MajorVictory/Pokemon5e-items/issues))
 
 ## Screenshots 
