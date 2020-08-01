@@ -90,4 +90,3 @@ This work is licensed under Foundry Virtual Tabletop [EULA - Limited License Agr
 [stars-url]: https://github.com/MajorVictory/Pokemon5e-items/stargazers
 [issues-shield]: https://img.shields.io/github/issues/MajorVictory/Pokemon5e-items.svg?style=flat-square
 [issues-url]: https://github.com/MajorVictory/Pokemon5e-items/issues
-[product-screenshot]: readme/Items-Preview-7-27-2020.png
