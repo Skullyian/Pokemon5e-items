@@ -57,11 +57,11 @@ Here's an overview of what's 'done'
  * ✔️ X-Items
  * ✔️ Held Items
  * ✔️ Evolution Items
- * ❌ Mundane Items
- * ❌ Special Items
+ * ✔️ Mundane Items (needs more icons, but considered finished)
+ * ✔️ Special Items
  * ✔️ Rolltables for fishing rods
- * ❌ Rolltables for regions
  * ✔️ Rolltables for weather
+ * ❌ Rolltables for regions
  * ❌ Other Rolltables? ([suggestions welcome](https://github.com/MajorVictory/Pokemon5e-items/issues))
 
 ## Screenshots 
