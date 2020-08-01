@@ -33,6 +33,8 @@ You can download the module in it's alpha state for testing or feedback by pasti
 
 > https://raw.githubusercontent.com/MajorVictory/Pokemon5e-items/master/module.json
 
+![](readme/Install-7-31-2020.png)
+
 ## Features
 
  * Items with full descriptions, images, and limited automated functionality. (uses DynamicEffects)
