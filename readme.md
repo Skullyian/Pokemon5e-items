@@ -1,8 +1,9 @@
 
-[![Contributors][contributors-shield]][contributors-url]
+[![foundry-shield]][foundry-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+[![All Release Downloads](https://img.shields.io/github/downloads/MajorVictory/Pokemon5e-items/total.svg)]()
 
 <br />
 <p align="center">
@@ -105,8 +106,8 @@ Pokemon5e Items is a module for Foundry VTT by Majorvictory and is licensed unde
 
 This work is licensed under Foundry Virtual Tabletop [EULA - Limited License Agreement for module development from May 29, 2020](https://foundryvtt.com/article/license/).
 
-[contributors-shield]: https://img.shields.io/github/contributors/MajorVictory/Pokemon5e-items.svg?style=flat-square
-[contributors-url]: https://github.com/MajorVictory/Pokemon5e-items/graphs/contributors
+[foundry-shield]: https://img.shields.io/badge/Foundry-v0.6.5-informational
+[foundry-url]: https://foundryvtt.com/
 [forks-shield]: https://img.shields.io/github/forks/MajorVictory/Pokemon5e-items.svg?style=flat-square
 [forks-url]: https://github.com/MajorVictory/Pokemon5e-items/network/members
 [stars-shield]: https://img.shields.io/github/stars/MajorVictory/Pokemon5e-items.svg?style=flat-square
