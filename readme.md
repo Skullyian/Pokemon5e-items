@@ -33,6 +33,7 @@
  * [Better Rolls for 5e](https://foundryvtt.com/packages/betterrolls5e/) - Easier usage of items and alternate rolls
  * [The Furnace](https://foundryvtt.com/packages/furnace/) - enables Pokedex macro usage
  * [Item Collection](https://foundryvtt.com/packages/itemcollection/) - enables Pokedex and backpack items
+ 
 **[Recommended Modules]**
  * [Combat Utility Belt](https://foundryvtt.com/packages/combat-utility-belt/)
  * [Tidy5e Sheet](https://foundryvtt.com/packages/tidy5e-sheet/)
