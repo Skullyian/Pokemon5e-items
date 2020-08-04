@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/MajorVictory/Pokemon5e-items">
-    <img src="readme/P5e-Logo-512x512.png" alt="Logo" width="80" height="80">
+    <img src="readme/P5e-Logo-512x512.png" alt="Logo" width="128" height="128">
   </a>
 
   <h3 align="center">Pokemon5e Items module for FoundryVtt</h3>
@@ -20,31 +20,41 @@
   </p>
 </p>
 
-**[Compatibility]**: *FoundryVTT* 0.6.5
-
-**[Systems]**: *dnd5e*
-
-
 ## Installation
 
-**There is no Version 1 yet**
+### Requirements
 
-You can download the module in it's alpha state for testing or feedback by pasting the following manifest url into Foundry.
+**[Compatibility]**: *FoundryVTT* 0.6.5
+**[Systems]**: *dnd5e*
+**[Required Modules]**
+ * [Dynamic Effects](https://foundryvtt.com/packages/dynamiceffects/) - The majority of stat effects
+ * [Better Rolls for 5e](https://foundryvtt.com/packages/betterrolls5e/) - Easier usage of items and alternate rolls
+ * [The Furnace](https://foundryvtt.com/packages/furnace/) - enables Pokedex macro usage
+ * [Item Collection](https://foundryvtt.com/packages/itemcollection/) - enables Pokedex and backpack items
+**[Recommended Modules]**
+ * [Combat Utility Belt](https://foundryvtt.com/packages/combat-utility-belt/)
+ * [Tidy5e Sheet](https://foundryvtt.com/packages/tidy5e-sheet/)
+
+### Version 1.0.0 First Release
+
+You can download the module in it's current state by pasting the following manifest url into Foundry.
 
 > https://raw.githubusercontent.com/MajorVictory/Pokemon5e-items/master/module.json
 
 ![](readme/Install-7-31-2020.png)
 
+
 ## Features
 
  * Items with full descriptions, images, and limited automated functionality. (uses DynamicEffects)
+ * Customizable Pokedex with colors representing each mainline game series and the Pokedex can actually be used to scan creatures!
  * Expands the DnD5e system to include Pokemon5e Damage Types, Conditions, and d20 Hit Dice.
- * Rolltables for loyalty, fishing rods (wip), natures, and more.
+ * Rolltables for loyalty, fishing rods, natures, weather, and more.
  * Optional conditions json that can be imported into Combat Utility Belt's Condition Lab complete with custom overlay images.
 
-## Done / TODO
+You can view [specific item usage instructions on this spreadsheet](https://docs.google.com/spreadsheets/d/1qyvenM4MrTE9GfYi3uIKrCeI8BXrTiRqAwyTv9iNYfE/edit?usp=sharing)
 
-You can view specific item progress and usage instructions on [this spreadsheet](https://docs.google.com/spreadsheets/d/1qyvenM4MrTE9GfYi3uIKrCeI8BXrTiRqAwyTv9iNYfE/edit?usp=sharing)
+## Done / TODO
 
 Here's an overview of what's 'done'
 
@@ -66,7 +76,17 @@ Here's an overview of what's 'done'
 
 ## Screenshots 
 
+### Poor Torchic!
+![](readme/UsageScreenshot-8-3-2020.jpg)
+
+### Items
 ![](readme/Items-Preview-7-27-2020.png)
+
+### Customizable Pokedex
+![](readme/PokedexColors2-8-3-2020.png)
+![](readme/PokedexColors-8-3-2020.png)
+
+### Conditions and Loyalties
 ![](readme/Conditions-Preview-7-27-2020.png)
 ![](readme/LoyaltiesTable-Preview-7-27-2020.png)
 

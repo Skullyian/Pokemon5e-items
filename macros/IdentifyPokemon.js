@@ -1,15 +1,20 @@
-// ToggleCondition @target @scene @item <ConditionName>
+// NOTICE: This macro requires The Furnace module to work properly
+// IdentifyPokemon @target @scene @item
 let mode = args[0];
 let targetid = args[1] || '';
 let sceneid = args[2] || '';
 let item = args[3] || '';
 
-if (item != '' && !item.data.activation) {
+// fixes for items with no activation time or duration set
+// required for DynamicEffects to run the macro
+if (item != '' && item.data && ! item.data.activation) {
 	item.data.activation = {
 	      "type": "bonus",
 	      "cost": 1,
 	      "condition": "creature must be concious and within 50 ft."
 	};
+}
+if (item != '' && item.data && ! item.data.duration) {
 	item.data.duration = {
 	      "value": null,
 	      "units": "inst"
@@ -17,6 +22,7 @@ if (item != '' && !item.data.activation) {
 }
 
 let targetactor = (targetid == '' || sceneid == '') ? _token.actor : game.actors.get(game.scenes.get(sceneid).data.tokens.filter(t => t._id == targetid)[0].actorId);
+
 
 if (targetactor) {
 	let basesr = targetactor.data.data.details.alignment;
