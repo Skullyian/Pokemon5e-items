@@ -24,8 +24,10 @@
 
 ### Requirements
 
-**[Compatibility]**: *FoundryVTT* 0.6.5
+**[Compatibility]**: *FoundryVTT* 0.6.5  
+
 **[Systems]**: *dnd5e*
+
 **[Required Modules]**
  * [Dynamic Effects](https://foundryvtt.com/packages/dynamiceffects/) - The majority of stat effects
  * [Better Rolls for 5e](https://foundryvtt.com/packages/betterrolls5e/) - Easier usage of items and alternate rolls
