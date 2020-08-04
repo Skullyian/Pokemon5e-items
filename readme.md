@@ -39,13 +39,17 @@
  * [Combat Utility Belt](https://foundryvtt.com/packages/combat-utility-belt/)
  * [Tidy5e Sheet](https://foundryvtt.com/packages/tidy5e-sheet/)
 
-### Version 1.0.0 First Release
+### Latest Release: V1.0.1
 
 You can download the module in it's current state by pasting the following manifest url into Foundry.
 
 > https://raw.githubusercontent.com/MajorVictory/Pokemon5e-items/master/module.json
 
 ![](readme/Install-7-31-2020.png)
+
+## Previous Versions Changelog
+
+[Previous Versions Changelog](changelog.md)
 
 
 ## Features
