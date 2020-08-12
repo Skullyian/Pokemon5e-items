@@ -3,10 +3,24 @@
 	"title": "Pokemon5e Items",
 	"description": "Adds items for the Pokemon5e system with limited support for BetterRolls and DynamicEffects",
 	"author": "MajorVictory",
-	"version": "1.0.1",
+	"version": "1.1.0",
 	"minimumCoreVersion": "0.6.5",
 	"compatibleCoreVersion": "0.6.5",
 	"packs": [
+	    {
+	      "name": "classes",
+	      "label": "Pokemon Classes and Subclasses",
+	      "path": "packs/p5e-classes.db",
+	      "entity": "Item",
+	      "module": "Pokemon5e-items"
+	    },
+	    {
+	      "name": "subclasses",
+	      "label": "Pokemon Subclass Features",
+	      "path": "packs/p5e-subclass-features.db",
+	      "entity": "Item",
+	      "module": "Pokemon5e-items"
+	    },
 	    {
 	      "name": "medicine",
 	      "label": "Pokemon Medicines",
@@ -96,7 +110,7 @@
 	      "label": "Pokemon Macros",
 	      "path": "packs/p5e-macros.db",
 	      "entity": "Macro",
-	      "module": "Pokemon5e-macros"
+	      "module": "Pokemon5e-items"
 	    }
 	],
 	"scripts": [
@@ -111,5 +125,5 @@
 	],
 	"url": "https://github.com/MajorVictory/Pokemon5e-items",
 	"manifest": "https://raw.githubusercontent.com/MajorVictory/Pokemon5e-items/master/module.json",
-	"download": "https://github.com/MajorVictory/Pokemon5e-items/releases/download/v1.0.1/Pokemon5e-items.zip"
+	"download": "https://github.com/MajorVictory/Pokemon5e-items/releases/download/v1.1.0/Pokemon5e-items.zip"
 }

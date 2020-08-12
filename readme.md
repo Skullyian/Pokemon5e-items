@@ -39,7 +39,7 @@
  * [Combat Utility Belt](https://foundryvtt.com/packages/combat-utility-belt/)
  * [Tidy5e Sheet](https://foundryvtt.com/packages/tidy5e-sheet/)
 
-### Latest Release: V1.0.1
+### Latest Release: V1.1.0
 
 You can download the module in it's current state by pasting the following manifest url into Foundry.
 
@@ -47,7 +47,7 @@ You can download the module in it's current state by pasting the following manif
 
 ![](readme/Install-7-31-2020.png)
 
-## Previous Versions Changelog
+## Changelog
 
 [Previous Versions Changelog](changelog.md)
 
@@ -69,6 +69,8 @@ Here's an overview of what's 'done'
 ✔️ Indicates finished ready to use (hopefully)  
 ❌ Indicates present, but not ready for use  
 
+ * ✔️ Classes and Subclasses
+ * ✔️ Subclass Features and Specialties
  * ✔️ Pokeballs
  * ✔️ Berries
  * ✔️ Medicines
@@ -97,6 +99,9 @@ Here's an overview of what's 'done'
 ### Conditions and Loyalties
 ![](readme/Conditions-Preview-7-27-2020.png)
 ![](readme/LoyaltiesTable-Preview-7-27-2020.png)
+
+### Classes, Subclasses, Subclass Features, and Specialties 
+![](readme/Classes-and-Feats-8-11-2020.png)
 
 ## Contact
 
