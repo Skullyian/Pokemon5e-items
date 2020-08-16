@@ -40,7 +40,7 @@
  * [Combat Utility Belt](https://foundryvtt.com/packages/combat-utility-belt/)
  * [Tidy5e Sheet](https://foundryvtt.com/packages/tidy5e-sheet/)
 
-### Latest Release: V1.2.0
+### Latest Release: V1.2.1
 
 You can download the module in it's current state by pasting the following manifest url into Foundry.
 

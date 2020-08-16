@@ -1,5 +1,15 @@
 # Changelog
 
+## Version 1.2.1
+
+Renamed some badges
+
+ * Angle -> Fissure
+ * Bell -> Mushroom
+ * Slice -> Pizza
+ * Chaos -> Wicked
+ * Added new badge: Pearl
+
 ## Version 1.2.0
 
  * Added 124 Trainer Badges, 47 of which can be used for Homebrew Badges
