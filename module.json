@@ -3,7 +3,7 @@
 	"title": "Pokemon5e Items",
 	"description": "Adds items for the Pokemon5e system with limited support for BetterRolls and DynamicEffects",
 	"author": "MajorVictory",
-	"version": "1.1.0",
+	"version": "1.2.0",
 	"minimumCoreVersion": "0.6.5",
 	"compatibleCoreVersion": "0.6.5",
 	"packs": [
@@ -78,6 +78,13 @@
 	      "module": "Pokemon5e-items"
 	    },
 	    {
+	      "name": "badges",
+	      "label": "Pokemon Trainer Badges",
+	      "path": "packs/p5e-badges.db",
+	      "entity": "Item",
+	      "module": "Pokemon5e-items"
+	    },
+	    {
 	      "name": "natures",
 	      "label": "Pokemon Natures",
 	      "path": "packs/p5e-natures.db",
@@ -125,5 +132,5 @@
 	],
 	"url": "https://github.com/MajorVictory/Pokemon5e-items",
 	"manifest": "https://raw.githubusercontent.com/MajorVictory/Pokemon5e-items/master/module.json",
-	"download": "https://github.com/MajorVictory/Pokemon5e-items/releases/download/v1.1.0/Pokemon5e-items.zip"
+	"download": "https://github.com/MajorVictory/Pokemon5e-items/releases/download/v1.2.0/Pokemon5e-items.zip"
 }

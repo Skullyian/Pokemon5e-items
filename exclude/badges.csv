@@ -1,0 +1,122 @@
+Name	Region	League	Gym Name	Gym Leader	Description	Folder	Img
+Boulder	Kanto	Indigo	Pewter City	Brock		kanto	boulder
+Cascade	Kanto	Indigo	Cerulean City	Misty		kanto	cascade
+Thunder	Kanto	Indigo	Vermilion City	Lt. Surge		kanto	thunder
+Rainbow	Kanto	Indigo	Celdaon City	Erika		kanto	rainbow
+Soul	Kanto	Indigo	Fuchsia City	Koga / Janine		kanto	soul
+Marsh	Kanto	Indigo	Saffron City	Sabrina		kanto	marsh
+Volcano	Kanto	Indigo	Cinnabar Island	Blaine		kanto	volcano
+Earth	Kanto	Indigo	Viridian City	Giovanni		kanto	earth
+Zephyr	Johto	Johto	Violet City	Falkner		johto	zephyr
+Hive	Johto	Johto	Azalea Town	Bugsy		johto	hive
+Plain	Johto	Johto	Goldenrod City	Whitney		johto	plain
+Fog	Johto	Johto	Ecrutteak City	Morty		johto	fog
+Storm	Johto	Johto	Cianwood City	Chuck		johto	storm
+Mineral	Johto	Johto	Olivine City	Jasmine		johto	mineral
+Glacier	Johto	Johto	Mahogany Town	Pryce		johto	glacier
+Rising	Johto	Johto	Blackthorn City	Clair		johto	rising
+Stone	Hoenn	Hoenn	Rustboro City	Roxanne		hoenn	stone
+Knuckle	Hoenn	Hoenn	Dewford Town	Brawly		hoenn	knuckle
+Dynamo	Hoenn	Hoenn	Mauville City	Wattson		hoenn	dynamo
+Heat	Hoenn	Hoenn	Lavaridge Town	Flannery		hoenn	heat
+Balance	Hoenn	Hoenn	Petalburg City	Norman		hoenn	balance
+Feather	Hoenn	Hoenn	Fortree City	Winona		hoenn	feather
+Mind	Hoenn	Hoenn	Mossdeep City	Tate & Liza		hoenn	mind
+Rain	Hoenn	Hoenn	Sootopolis City	Wallace		hoenn	rain
+Coal	Sinnoh	Sinnoh	Oreburgh	Roark		sinnoh	coal
+Forest	Sinnoh	Sinnoh	Eterna City	Gardenia		sinnoh	forest
+Cobble	Sinnoh	Sinnoh	Veilstone City	Maylene		sinnoh	cobble
+Fen	Sinnoh	Sinnoh	Pastoria City	Crasher Wake		sinnoh	fen
+Relic	Sinnoh	Sinnoh	Hearthome City	Fantina		sinnoh	relic
+Mine	Sinnoh	Sinnoh	Canalave City	Byron		sinnoh	mine
+Icicle	Sinnoh	Sinnoh	Snowpoint City	Candice		sinnoh	icicle
+Beacon	Sinnoh	Sinnoh	Sunyshore City	Volkner		sinnoh	beacon
+Trio	Unova	Unova	Striaton City	Cilan / Chili / Cress		unova	trio
+Basic	Unova	Unova	Nacrene City	Lenora		unova	basic
+Basic	Unova	Unova	Aspertia City	Cheren		unova	basic
+Insect	Unova	Unova	Castelia City	Burgh		unova	insect
+Bolt	Unova	Unova	Nimbasa City	Elesa		unova	bolt
+Quake	Unova	Unova	Driftveil City	Clay		unova	quake
+Jet	Unova	Unova	Mistralton City	Skyla		unova	jet
+Freeze	Unova	Unova	Icirrus City	Brycen		unova	freeze
+Legend	Unova	Unova	Opelucid City	Drayden / Iris		unova	legend
+Toxic	Unova	Unova	Virbank City	Roxie		unova	toxic
+Wave	Unova	Unova	Humilau City	Marlon		unova	wave
+Bug	Kalos	Kalos	Santalune City	Viola		kalos	bug
+Cliff	Kalos	Kalos	Cyllage City	Grant		kalos	cliff
+Rumble	Kalos	Kalos	Shalour City	Korrina		kalos	rumble
+Plant	Kalos	Kalos	Coumarine City	Ramos		kalos	plant
+Voltage	Kalos	Kalos	Lumiose City	Clemont		kalos	voltage
+Fairy	Kalos	Kalos	Laverre City	Valerie		kalos	fairy
+Psychic	Kalos	Kalos	Anistar City	Olympia		kalos	psychic
+Iceberg	Kalos	Kalos	Snowbelle City	Wulfric		kalos	iceberg
+Grass	Galar	Galar	Turffield Stadium	Milo		galar	grass
+Water	Galar	Galar	Hulbury Stadium	Nessa		galar	water
+Fire	Galar	Galar	Motostoke Stadium	Kabu		galar	fire
+Fighting	Galar	Galar	Stow-on-Side Stadium	Bea		galar	fighting
+Fairy	Galar	Galar	Ballonlea Stadium	Opal / Bede		galar	fairy
+Rock	Galar	Galar	Circhester Stadium	Gordie		galar	rock
+Dark	Galar	Galar	Spikemuth Stadium	Piers / Marnie		galar	dark
+Dragon	Galar	Galar	Hammerlocke Stadium	Raihan		galar	dragon
+Ghost	Galar	Galar	Stow-on-Side Stadium	Allister		galar	ghost
+Ice	Galar	Galar	Circhester Stadium	Melony		galar	ice
+Angle	Homebrew	Homebrew				misc	angle
+Astral	Homebrew	Homebrew				misc	astral
+Barricade	Homebrew	Homebrew				misc	barricade
+Bell	Homebrew	Homebrew				misc	bell
+Burn	Homebrew	Homebrew				misc	burn
+Capture	Homebrew	Homebrew				misc	capture
+Chaos	Homebrew	Homebrew				misc	chaos
+Claw	Homebrew	Homebrew				misc	claw
+Containment	Homebrew	Homebrew				misc	containment
+Cover	Homebrew	Homebrew				misc	cover
+Crown	Homebrew	Homebrew				misc	crown
+Dress	Homebrew	Homebrew				misc	dress
+Endruance	Homebrew	Homebrew				misc	endruance
+Flair	Homebrew	Homebrew				misc	flair
+Formless	Homebrew	Homebrew				misc	formless
+Gravity	Homebrew	Homebrew				misc	gravity
+Hoplon	Homebrew	Homebrew				misc	hoplon
+Lauder	Homebrew	Homebrew				misc	lauder
+Leek	Homebrew	Homebrew				misc	leek
+Luminous	Homebrew	Homebrew				misc	luminous
+Luxury	Homebrew	Homebrew				misc	luxury
+Myth	Homebrew	Homebrew				misc	myth
+Order	Homebrew	Homebrew				misc	order
+Pester	Homebrew	Homebrew				misc	pester
+Pokemon League Exam	Homebrew	Homebrew				misc	pokemon-league-exam
+Power	Homebrew	Homebrew				misc	power
+Powerstone	Homebrew	Homebrew				misc	powerstone
+Puzzle	Homebrew	Homebrew				misc	puzzle
+Quiz	Homebrew	Homebrew				misc	quiz
+Scale	Homebrew	Homebrew				misc	scale
+Scrap	Homebrew	Homebrew				misc	scrap
+Sight	Homebrew	Homebrew				misc	sight
+Slice	Homebrew	Homebrew				misc	slice
+Soar	Homebrew	Homebrew				misc	soar
+Spire	Homebrew	Homebrew				misc	spire
+Splash	Homebrew	Homebrew				misc	splash
+Spring	Homebrew	Homebrew				misc	spring
+Stagger	Homebrew	Homebrew				misc	stagger
+Steadfast	Homebrew	Homebrew				misc	steadfast
+Time	Homebrew	Homebrew				misc	time
+Titan	Homebrew	Homebrew				misc	titan
+Twin	Homebrew	Homebrew				misc	twin
+Unity	Homebrew	Homebrew				misc	unity
+Valentine	Homebrew	Homebrew				misc	valentine
+Vapor	Homebrew	Homebrew				misc	vapor
+Ward	Homebrew	Homebrew				misc	ward
+Gold Ability Symbol	Hoenn	Battle Frontier	Battle Tower	Salon Maiden Anabel		frontier	ability-gold
+Silver Ability Symbol	Hoenn	Battle Frontier	Battle Tower	Salon Maiden Anabel		frontier	ability-silver
+Gold Brave Symbol	Hoenn	Battle Frontier	Battle Pyramid	Pyramid King Brandon		frontier	brave-gold
+Silver Brave Symbol	Hoenn	Battle Frontier	Battle Pyramid	Pyramid King Brandon		frontier	brave-silver
+Gold Guts Symbol	Hoenn	Battle Frontier	Battle Arena	Arena Tycoon Greta		frontier	guts-gold
+Silver Guts Symbol	Hoenn	Battle Frontier	Battle Arena	Arena Tycoon Greta		frontier	guts-silver
+Gold Knowledge Symbol	Hoenn	Battle Frontier	Battle Factory	Factory Head Noland		frontier	knowledge-gold
+Silver Knowledge Symbol	Hoenn	Battle Frontier	Battle Factory	Factory Head Noland		frontier	knowledge-silver
+Gold Luck Symbol	Hoenn	Battle Frontier	Battle Pike	Pike Queen Lucy		frontier	luck-gold
+Silver Luck Symbol	Hoenn	Battle Frontier	Battle Pike	Pike Queen Lucy		frontier	luck-silver
+Gold Spirits Symbol	Hoenn	Battle Frontier	Battle Palace	Palace Maven Spenser		frontier	spirits-gold
+Silver Spirits Symbol	Hoenn	Battle Frontier	Battle Palace	Palace Maven Spenser		frontier	spirits-silver
+Gold Tactics Symbol	Hoenn	Battle Frontier	Battle Dome	Dome Ace Tucker		frontier	tactics-gold
+Silver Tactics Symbol	Hoenn	Battle Frontier	Battle Dome	Dome Ace Tucker		frontier	tactics-silver

@@ -30,6 +30,7 @@
 **[Systems]**: *dnd5e*
 
 **[Required Modules]**
+ * [Jerakin's Pokemon5e Module](https://github.com/Jerakin/p5e-foundryVTT) - moves, abilities, and pokemon compendiums
  * [Dynamic Effects](https://foundryvtt.com/packages/dynamiceffects/) - The majority of stat effects
  * [Better Rolls for 5e](https://foundryvtt.com/packages/betterrolls5e/) - Easier usage of items and alternate rolls
  * [The Furnace](https://foundryvtt.com/packages/furnace/) - enables Pokedex macro usage
@@ -39,7 +40,7 @@
  * [Combat Utility Belt](https://foundryvtt.com/packages/combat-utility-belt/)
  * [Tidy5e Sheet](https://foundryvtt.com/packages/tidy5e-sheet/)
 
-### Latest Release: V1.1.0
+### Latest Release: V1.2.0
 
 You can download the module in it's current state by pasting the following manifest url into Foundry.
 
@@ -103,13 +104,37 @@ Here's an overview of what's 'done'
 ### Classes, Subclasses, Subclass Features, and Specialties 
 ![](readme/Classes-and-Feats-8-11-2020.png)
 
+### Trainer Badges
+
+Badges for every region and an extra 40+ "Homebrew Badges" shown but not named by the TV series. Names have been provided, but you are welcome to change them to suit your own campaigns.
+![](readme/Badges-8-15-2020.png)
+
 ## Contact
 
 MajorVictory87 - Discord: MajorVictory87#3666
 
 Project Link: [https://github.com/MajorVictory/Pokemon5e-items](https://github.com/MajorVictory/Pokemon5e-items)
 
+## Attributions
+
+### [Pokésprite](https://msikma.github.io/pokesprite/) - **MIT License**
+
+### [Pokédex Icon - Red](https://icon-library.com/icon/pokedex-icon-28.html) - **CC0 Public Domain Licence**
+
+### [Badge Icons](https://www.deviantart.com/seancantrell/art/All-Pokemon-Badges-399596702) - [Sean Cantrell](https://www.deviantart.com/seancantrell)
+
+### Status Markers - Discord: *Doctor Deadderth#4739* 
+
+### Custom Art by me (MajorVictory):
+
+ * Weather icons Inspired by Pokémon Sword and Shield weather icons.
+ * Pokédex icons (all but original red color)
+ * Polkadot Bow
+ * Many DnD Status icons
+
 ## License
+
+The pokesprite sprite images are © Nintendo/Creatures Inc./GAME FREAK Inc.
 
 Pokemon5e Items is a module for Foundry VTT by Majorvictory and is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 

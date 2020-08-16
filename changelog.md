@@ -1,5 +1,10 @@
 # Changelog
 
+## Version 1.2.0
+
+ * Added 124 Trainer Badges, 47 of which can be used for Homebrew Badges
+ * Bugfix: Energetic nature updated. Was: +2 Dex, -2 Con, Changed to: +2 Dex, -2 Cha
+
 ## Version 1.1.0
 
 Major features added
