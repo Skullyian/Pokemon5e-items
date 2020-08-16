@@ -72,17 +72,19 @@ Here's an overview of what's 'done'
 
  * ✔️ Classes and Subclasses
  * ✔️ Subclass Features and Specialties
+ * ✔️ All Official TV Series badges
+ * ✔️ Semi-Official Homebrew Badges
  * ✔️ Pokeballs
  * ✔️ Berries
  * ✔️ Medicines
  * ✔️ X-Items
  * ✔️ Held Items
  * ✔️ Evolution Items
- * ✔️ Mundane Items (needs more icons, but considered finished)
+ * ✔️ Mundane Items (needs more in-style icons, but considered finished)
  * ✔️ Special Items
  * ✔️ Rolltables for fishing rods
  * ✔️ Rolltables for weather
- * ❌ Rolltables for regions
+ * ✔️ Rolltables for habitat encounters
  * ❌ Other Rolltables? ([suggestions welcome](https://github.com/MajorVictory/Pokemon5e-items/issues))
 
 ## Screenshots 
