@@ -1,5 +1,18 @@
 # Changelog
 
+## Version 1.3.0
+
+New Items!
+
+ * Added: 100 TMs
+
+These changes bring the module in line with P5e changes made from 8/3/2020 to 8/16/2020
+
+ * Added: Trainer Subclass: Guru
+ * Added: Trainer Subclass Features: Mind, Body, Soul
+ * Removed: Keldeo removed from Super Rod rolltable (Rolltable ID has changed, reimport 'Super Rod' item if needed)
+ * Bugfix: Typo in Prison Bottle held item: "Hoopla" -> "Hoopa"
+
 ## Version 1.2.1
 
 Renamed some badges

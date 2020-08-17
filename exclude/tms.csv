@@ -1,0 +1,101 @@
+TM	Name	Cost	Rarity	MoveID	Type
+01	Work Up	8000	Normal	4735e5d60de4daa3	normal
+02	Dragon Claw	6000	Dragon	824aa6ff67a70314	dragon
+03	Psyshock	6000	Psychic	7eaa7268b09e39a4	psychic
+04	Calm Mind	5500	Psychic	3e408fb8fb37643b	psychic
+05	Roar	4000	Normal	c00f7c7d586094c3	normal
+06	Toxic	8000	Poison	bc2dfd1b79bd1988	poison
+07	Hail	8000	Ice	99c910f820fbf84a	ice
+08	Bulk Up	6000	Fighting	824f64d56aa31662	fighting
+09	Venoshock	5200	Poison	6e77e6b27b459a5e	poison
+10	Hidden Power	5200	Normal	1ccc0b70ce3cd512	normal
+11	Sunny Day	4400	Fire	28972da25fe067b2	fire
+12	Taunt	4400	Dark	50b3a894d39a7f23	dark
+13	Ice Beam	7200	Ice	667309b9c7fbc913	ice
+14	Blizzard	8400	Ice	4e00ad2bdbffd737	ice
+15	Hyper Beam	10800	Normal	2b2b2aacb61daadd	normal
+16	Light Screen	4400	Psychic	be418d5359df3742	psychic
+17	Protect	8000	Normal	806c20d1d5656602	normal
+18	Rain Dance	4400	Water	ede2cbd7eff89710	water
+19	Roost	5600	Flying	adec53c979b5ea97	flying
+20	Safeguard	6000	Normal	d9e418968a4c95e7	normal
+21	Frustration	3600	Normal	8302925ce5f5d7fe	normal
+22	Solar Beam	8800	Grass	ccab956853be028a	grass
+23	Smack Down	4400	Rock	fae7c98c42a8d594	rock
+24	Thunderbolt	7200	Electric	a6583674d3ec8036	electric
+25	Thunder	8400	Electric	519bce7bc2dab47f	electric
+26	Earthquake	8000	Ground	7f65878d43af1631	ground
+27	Return	5200	Normal	6b0143d03864993f	normal
+28	Leech Life	6000	Bug	a993dee9509eaaf0	bug
+29	Psychic	7200	Psychic	2c73e325cb1fae2c	psychic
+30	Shadow Ball	6000	Ghost	fa425698255fdedd	ghost
+31	Brick Break	5600	Fighting	96fc8ec9d0c370a7	fighting
+32	Double Team	7000	Normal	b06349aec9ebfc71	normal
+33	Reflect	8000	Psychic	9bd75a3fb14a6e1d	psychic
+34	Sludge Wave	7200	Poison	e1d7795afc6a7028	poison
+35	Flamethrower	7200	Fire	3c07f870ddf7e92b	fire
+36	Sludge Bomb	7200	Poison	62589dfdea7df2ff	poison
+37	Sandstorm	8400	Rock	bc751dabedb4ee3d	rock
+38	Fire Blast	8400	Fire	e7ca5761e2d9adf9	fire
+39	Rock Tomb	5200	Rock	bd23c727bcf00cc2	rock
+40	Aerial Ace	5200	Flying	4c2ce13ba553252d	flying
+41	Torment	6000	Dark	99976f3a961876f5	dark
+42	Facade	5600	Normal	f83f6f6c07752bc8	normal
+43	Flame Charge	4400	Fire	85781d58099fa463	fire
+44	Rest	6000	Psychic	05863ec2c3789276	psychic
+45	Attract	4000	Normal	326a2344c49917d6	normal
+46	Thief	5200	Dark	2fd478c88ca0e81b	dark
+47	Low Sweep	5200	Fighting	eefa1ce43193d4c3	fighting
+48	Round	5200	Normal	cd9558acfc386bd3	normal
+49	Echoed Voice	4000	Normal	59d41e938bc26989	normal
+50	Overheat	10000	Fire	e9ceda2738151781	fire
+51	Steel Wing	5600	Steel	55f8ab74509274d8	steel
+52	Focus Blast	8800	Fighting	d2151ac87a234842	fighting
+53	Energy Ball	7200	Grass	f87de40109f66266	grass
+54	False Swipe	4000	Normal	8412e88cccf52c97	normal
+55	Scald	6000	Water	5fef2fa0123b80a4	water
+56	Fling	4500	Dark	30832fa2c960bf42	dark
+57	Charge Beam	4400	Electric	27755bf355d2434b	electric
+58	Sky Drop	5200	Flying	8077fe520de40baf	flying
+59	Brutal Swing	5200	Dark	8d99ac30a8cd0bb7	dark
+60	Quash	5600	Dark	faa7a7b6afb79ab6	dark
+61	Will-O-Wisp	6000	Fire	728d2c6e2c522cb5	fire
+62	Acrobatics	4400	Flying	0d0b7eee2953750e	flying
+63	Embargo	5000	Dark	708cecd95e0d8f1a	dark
+64	Explosion	14000	Normal	ca6482a42babcb32	normal
+65	Shadow Claw	5600	Ghost	5b5a726a7d34f157	ghost
+66	Payback	4400	Dark	debb0b1b8f38af9c	dark
+67	Smart Strike	5600	Steel	c6c1f365103f9b89	steel
+68	Giga Impact	10800	Normal	4d2f40073a829477	normal
+69	Rock Polish	8000	Rock	1f5d109c61cefa9b	rock
+70	Aurora Veil	2500	Ice	d160cd9b4b40f14e	ice
+71	Stone Edge	8000	Rock	98cd3a8065361d2a	rock
+72	Volt Switch	5600	Electric	8737bdff5f8c6713	electric
+73	Thunder Wave	5000	Electric	96bd41f856a9dd7e	electric
+74	Gyro Ball	5500	Steel	fee5a3e03e9035a7	steel
+75	Swords Dance	8000	Normal	55943ec70de27f21	normal
+76	Fly	7200	Flying	31bbe05d43158cd2	flying
+77	Psych Up	4500	Normal	d0d2e9ec46c9bbfc	normal
+78	Bulldoze	5200	Ground	faa824e363179df4	ground
+79	Frost Breath	5200	Ice	bd02fd88e2240aa8	ice
+80	Rock Slide	5600	Rock	854601d558724c0b	rock
+81	X-Scissor	6000	Bug	f952f00acbcb408c	bug
+82	Dragon Tail	5200	Dragon	906d49d3577bef3c	dragon
+83	Infestation	2800	Bug	6137a062f8a6a339	bug
+84	Poison Jab	6000	Poison	6bf09578d341fcf6	poison
+85	Dream Eater	8000	Psychic	822a5e247cad9326	psychic
+86	Grass Knot	6500	Grass	d85d2ffd0f01017b	grass
+87	Swagger	5000	Normal	f08ea57acfccfed7	normal
+88	Sleep Talk	4500	Normal	835f6864fbd7fb3e	normal
+89	U-Turn	5600	Bug	b8566d6ed0ff65f9	bug
+90	Substitute	7500	Normal	f9e11be9ec0f13cc	normal
+91	Flash Cannon	6000	Steel	cb12fb6bb3302aaf	steel
+92	Trick Room	5000	Psychic	f179b97b36b78602	psychic
+93	Wild Charge	7200	Electric	592fe022411de224	electric
+94	Surf	7200	Water	18e2fc50821a0d2e	water
+95	Snarl	4400	Dark	f4cd04b7d61b9ad9	dark
+96	Nature Power	5000	Normal	21d7093c8d0693a0	normal
+97	Dark Pulse	6000	Dark	06fd24d502601fa5	dark
+98	Waterfall	6000	Water	6b53bc225e0aae1d	water
+99	Dazzling Gleam	6000	Fairy	796c9bb3d00f6efa	fairy
+100	Confide	4400	Normal	2668db59b5bcbef3	normal

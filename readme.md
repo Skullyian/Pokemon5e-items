@@ -40,7 +40,7 @@
  * [Combat Utility Belt](https://foundryvtt.com/packages/combat-utility-belt/)
  * [Tidy5e Sheet](https://foundryvtt.com/packages/tidy5e-sheet/)
 
-### Latest Release: V1.2.1
+### Latest Release: V1.3.0
 
 You can download the module in it's current state by pasting the following manifest url into Foundry.
 
@@ -89,11 +89,17 @@ Here's an overview of what's 'done'
 
 ## Screenshots 
 
-### Poor Torchic!
-![](readme/UsageScreenshot-8-3-2020.jpg)
+### Classes, Subclasses, Subclass Features, and Specialties 
+![](readme/Classes-and-Feats-8-11-2020.png)
 
 ### Items
+
+Mundane items, berries, medicines, held items, evolution items, TMs, and more...
 ![](readme/Items-Preview-7-27-2020.png)
+![](readme/TMs-8-17-2020.png)
+
+Badges for every region and an extra 40+ "Homebrew Badges" shown but not named by the TV series. Names have been provided, but you are welcome to change them to suit your own campaigns.
+![](readme/Badges-8-15-2020.png)
 
 ### Customizable Pokedex
 ![](readme/PokedexColors2-8-3-2020.png)
@@ -103,13 +109,8 @@ Here's an overview of what's 'done'
 ![](readme/Conditions-Preview-7-27-2020.png)
 ![](readme/LoyaltiesTable-Preview-7-27-2020.png)
 
-### Classes, Subclasses, Subclass Features, and Specialties 
-![](readme/Classes-and-Feats-8-11-2020.png)
-
-### Trainer Badges
-
-Badges for every region and an extra 40+ "Homebrew Badges" shown but not named by the TV series. Names have been provided, but you are welcome to change them to suit your own campaigns.
-![](readme/Badges-8-15-2020.png)
+### Poor Torchic!
+![](readme/UsageScreenshot-8-3-2020.jpg)
 
 ## Contact
 
