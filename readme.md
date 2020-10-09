@@ -25,9 +25,10 @@
 
 ### Requirements
 
-**[Compatibility]**: *FoundryVTT* 0.6.5  
+**[Compatibility]**: *FoundryVTT* 0.6.6  
+**Not yet compatible with 0.7.x**
 
-**[Systems]**: *dnd5e*
+**[Systems]**: *dnd5e* 0.96
 
 **[Required Modules]**
  * [Jerakin's Pokemon5e Module](https://github.com/Jerakin/p5e-foundryVTT) - moves, abilities, and pokemon compendiums
