@@ -1,5 +1,27 @@
 # Changelog
 
+
+## Version 1.3.1
+
+ * Updated `IdentifyPokemon` macro to work with and without an item and now shows results for all targeted creatures.
+ * Item: Updated all Pokedex items to use new macro.
+
+These changes bring the module in line with P5e changes made from 8/16/2020 to 10/16/2020
+
+ * Subclass: Updated Hobbyist initial rewards
+ * Subclass Skill: Updated Hobbyist level 15 `Pokeball Crafter` changed to `Skill Switch`
+ * Subclass Skill: Hobbyist level 5 `Versatile` text updated
+ * Subclass Skill: Ace Trainer level 15 `Rapid Switching` text updated
+ * Subclass Skill: Commander level 9 `Show Me What You've Got` text updated
+ * Subclass Skill: Tactician level 15 `Not This Time` text updated
+ * Item: Leftovers text updated, price changed to 4,400
+ * Item: Ability Capsule, category changed to `Mundane Item`, price changed to 5,000, text updated, moved from `Pokemon Held Items` compendium to `Pokemon Items` compendium
+ * Item: Black Sludge text updated
+ * Nature: Cocky renamed to Arrogant
+ * Nature: Dumb renamed to Innocent
+ * Condition: Burned updated text
+ * Condition: Asleep updated text
+
 ## Version 1.3.0
 
 New Items!

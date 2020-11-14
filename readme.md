@@ -25,9 +25,9 @@
 
 ### Requirements
 
-**[Compatibility]**: *FoundryVTT* 0.6.5  
+**[Compatibility]**: *FoundryVTT* 0.6.5 - 0.6.6 (*Not Ready for 0.7.x*)
 
-**[Systems]**: *dnd5e*
+**[Systems]**: *dnd5e* 0.96
 
 **[Required Modules]**
  * [Jerakin's Pokemon5e Module](https://github.com/Jerakin/p5e-foundryVTT) - moves, abilities, and pokemon compendiums
@@ -40,7 +40,7 @@
  * [Combat Utility Belt](https://foundryvtt.com/packages/combat-utility-belt/)
  * [Tidy5e Sheet](https://foundryvtt.com/packages/tidy5e-sheet/)
 
-### Latest Release: V1.3.0
+### Latest Release
 
 You can download the module in it's current state by pasting the following manifest url into Foundry.
 
@@ -54,6 +54,11 @@ You can download the module in it's current state by pasting the following manif
 
 
 ## Features
+
+**Warning**
+ * This module adds more damage types, hit dice, currencies and conditions to the base dnd5e system. These values are not available if the module is disabled.
+ * This module also changes the EXP to level requirements for all actors to match the P5e PHB values.
+**Warning**
 
  * Items with full descriptions, images, and limited automated functionality. (uses DynamicEffects)
  * Customizable Pokedex with colors representing each mainline game series and the Pokedex can actually be used to scan creatures!
